@@ -1,3 +1,7 @@
+This project will follow Traversy's media online tutorial to learn reack Hooks. We will be creating a todo app. 
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
